@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 body {
-     background-image: url("file:///home/scott/Downloads/website/index_files/background.jpeg ");
+     background-image: url("https://wallpapercave.com/wp/wp4989130.jpg");
      background-size: cover;
      font-family: sans-serif;
      margin: 0;
@@ -51,7 +51,7 @@ img {
  }
  
 .title-bar {
-     background-image: url('file:///home/scott/Downloads/website/index_files/g.jpg');
+     background-image: url('#');
      color: rgb(0, 0, 0);
      padding: 10px;
      text-align: center;
